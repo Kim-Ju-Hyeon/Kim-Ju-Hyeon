@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 # Ju Hyeon Kim
 
-Bachelor's degree: EE @Hongik University
-Master student @Hanyang University
+* Bachelor's degree: EE @Hongik University
+* Master student @Hanyang University
