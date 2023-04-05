@@ -3,18 +3,10 @@ Kim-Ju-Hyeon/Kim-Ju-Hyeon is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-# Ju Hyeon Kim
-
-* Bachelor's degree: EE @Hongik University
-* Master student @Hanyang University
-
-
-
 <h1 align="center"><b>Hi , I'm JuHyeon Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Driven+entry-level+developer;passionate+about+deep+learning;+leveraging+focus+and+problem-solving" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Driven+entry-level+developer;passionate+about+deep+learning;+leveraging+focus+and+problem-solving" alt="Typing SVG" /></a>
 </p>
 
 
@@ -32,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 - A passionate Self-taught ML developer
 - Bachelor's degree: EE @Hongik University
 - Master student @Hanyang University
-- Currently learning GNN base Timeseries Forecasting, Anomaly Detection, Recommendation System
+- Currently learning GNN base 
+	- Timeseries Forecasting, Anomaly Detection, Recommendation System
 - I’m currently looking for an Intern or a new job opportunity, this is [my resume](https://www.notion.so/4a2c3faf02ec42c4885921f4a7399c6a?pvs=4)
 
 <br><br>
