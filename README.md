@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align='left'>
 <a href="mailto:wngus1310@naver.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  wngus1310-%#03C75A.svg?style=for-the-badge&logo=naver&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="[https://img.shields.io/badge/naver](https://img.shields.io/badge/naver-Naver-%2303C75A):  wngus1310-%#03C75A.svg?style=for-the-badge&logo=naver&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
 </div>
