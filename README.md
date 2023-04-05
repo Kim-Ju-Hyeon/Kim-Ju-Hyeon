@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center"><b>Hi , JuHyeon Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm JuHyeon Kim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught ML developer
+- Bachelor's degree: EE @Hongik University
+- Master student @Hanyang University
+- Currently learning GNN base Timeseries Forecasting, Anomaly Detection, Recommendation System
+- I’m currently looking for an Intern or a new job opportunity, this is [my resume](https://www.notion.so/4a2c3faf02ec42c4885921f4a7399c6a?pvs=4)
 
 <br><br>
 
