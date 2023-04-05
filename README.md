@@ -44,9 +44,10 @@ You can click the Preview link to take a look at your changes.
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
+	
 - **Framework**:
 
-    ![Pytorch](https://img.shields.io/badge/Pytorch%20-%#EE4C2C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Pytorch](https://img.shields.io/badge/Pytorch%20-%#EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
