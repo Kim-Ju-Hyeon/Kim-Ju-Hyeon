@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 	- Anomaly Detection
 	- Recommendation System
 - I’m currently looking for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/s/1eftj0i5c30t4wo/%EA%B9%80%EC%A3%BC%ED%98%84_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf?dl=0)
-- And this is [my notion] (https://juhyeon-cv.notion.site/AI-b76ce3da901a44f595caa50f77d88fae)
+- And this is [my Notion page](https://juhyeon-cv.notion.site/AI-b76ce3da901a44f595caa50f77d88fae)
 
 <br>
 
