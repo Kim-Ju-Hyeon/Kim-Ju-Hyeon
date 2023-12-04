@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 	- Timeseries Forecasting
 	- Anomaly Detection
 	- Recommendation System
-- I’m currently looking for an Intern or a new job opportunity, this is my [Resume](https://www.dropbox.com/s/u5wkmqa0e3upu6b/%EA%B9%80%EC%A3%BC%ED%98%84_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf?dl=0)
+- I’m currently looking for an Intern or a new job opportunity, this is my [Resume](https://www.dropbox.com/scl/fi/zoau6389t33nkru3empkj/_.pdf?rlkey=76lf9vx1h3u7pet5gsinxlmhw&dl=0)
 - And this is my [Notion](https://www.notion.so/juhyeon-cv/AI-b76ce3da901a44f595caa50f77d88fae?pvs=4)
 
 <br>
