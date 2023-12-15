@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
 	- Timeseries Forecasting
 	- Anomaly Detection
 	- Recommendation System
-- This is my [Resume](https://www.dropbox.com/scl/fi/zoau6389t33nkru3empkj/_.pdf?rlkey=76lf9vx1h3u7pet5gsinxlmhw&dl=0)
-- And this is my [Notion](https://www.notion.so/juhyeon-cv/AI-b76ce3da901a44f595caa50f77d88fae?pvs=4)
 
 <br>
 
